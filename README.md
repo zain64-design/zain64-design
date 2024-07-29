@@ -1,6 +1,6 @@
 # Hey there :wave:
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya//zain64-design/master/resources/banner.png" alt="Hello world">
+<img src="https://raw.githubusercontent.com/sagar-viradiya//zain64-design/master/banner.png" alt="Hello world">
 
 <p align="center"> 
   Visitor count<br>
@@ -13,5 +13,5 @@ Hi there 👋. I’m Zain, a skilled and results-driven Frontend Developer with 
 
 ## Get in touch :coffee:
 
-- [Personal Website]()
-- [LinkedIn](https://www.linkedin.com/in/)
+- [Personal Website](https://muhammadzainulabidin.vercel.app/)
+- [LinkedIn](https://www.linkedin.com/in/sheikh-muhammad-zain-ul-abidin-914234209/)
